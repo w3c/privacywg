@@ -1,2 +1,3 @@
-# privacywg
-Privacy Working Group
+# Privacy Working Group
+
+Administrivia repository
