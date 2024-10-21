@@ -1,4 +1,4 @@
-# Invite expoert invitations
+# Invite expert invitations
 
 # Expectations
 
