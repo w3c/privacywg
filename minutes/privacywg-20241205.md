@@ -60,7 +60,7 @@ https://github.com/w3cping/privacy-request/issues/146
 - Nick has started taking a look, not yet done.  Deltas from previous publication seems small and won't need a lot of work from us.
 - Pete says Kyle felt that way too.
 
-### WebGPU
+### 3. WebGPU
 
 [WebGPU transition request](https://github.com/w3c/transitions/issues/676)
 
@@ -84,7 +84,7 @@ https://github.com/w3cping/privacy-request/issues/146
 - Nick: I will put something on our mailing list, Pete will join a meeting (in January, possibly January 8)
 - Philippe: If the Privacy WG wants to object to the formation of the WebGPU WG, then they should speak up.  Team has received a Transition Request for WebGPU and needs to act on it.
 
-### GPC
+### 4. GPC
 
 * reviewing PRs based on last meeting's discussion
 
@@ -107,7 +107,7 @@ https://github.com/w3cping/privacy-request/issues/146
   - Philippe: Up to the editors.  It will be "GPC Explainer" until you find a better name.
   - Justin: I'll talk to the other editors and find a better name soon.
 
-### AOB
+### 5. AOB
 
 * privacy considerations for Digital Credentials Community Group Report]()
   
