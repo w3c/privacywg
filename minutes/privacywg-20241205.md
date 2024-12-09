@@ -48,9 +48,7 @@ Jeffrey Yasskin is doing TAG review; Pete completed a review for Privacy WG.
 Substantive observations:
 
 - Normative section of document referring to nonnormative definitions (e.g. "kill buffer") which may lead to ambiguity
-
 - Didn't understand how the history interaction part of the spec interacts with the page modifications stuff
-
 - Some browsers don't fire events in some situations that are security/privacy sensitive (like using a password manager); want to check with people who made those implementation choices to see if they should be reconciled / noted / etc. in the spec.
 
 #### Verifiable Credentials
@@ -90,15 +88,15 @@ https://github.com/w3cping/privacy-request/issues/146
 
 * https://github.com/w3c/gpc/pull/87 addressing w3c/gpc#82
   
-          - About not blessing any particular regulatory approach
-          - Nick: Thank you, seems good, though the folks who brought this up at TPAC aren't here
+  - About not blessing any particular regulatory approach
+  - Nick: Thank you, seems good, though the folks who brought this up at TPAC aren't here
 
 * https://github.com/w3c/gpc/pull/88 addressing w3c/gpc#80
   
-          - Adding discussion in the explainer about agreements to share information on specific sites, which various regulations have opinions on.  Jeffrey has asked for a sentence in the spec as well; Justin will add it.
-          - Nick: Seems good to point out this capability that is outside of the spec somewhere.
-          - Ben: Looking forward to the Jeffrey-requested addition, I'll add it to this PR very soon
-          - Michael: Justin: can you add your name to Github so we know who is making the pull requests?
+  - Adding discussion in the explainer about agreements to share information on specific sites, which various regulations have opinions on.  Jeffrey has asked for a sentence in the spec as well; Justin will add it.
+  - Nick: Seems good to point out this capability that is outside of the spec somewhere.
+  - Ben: Looking forward to the Jeffrey-requested addition, I'll add it to this PR very soon
+  - Michael: Justin: can you add your name to Github so we know who is making the pull requests?
 
 * What do we need to do to have a separate Explainer document that we publish?
   
@@ -136,10 +134,10 @@ https://github.com/w3cping/privacy-request/issues/146
   * Nick: Next step: Could we phrase charter language that people are interested in working on, without committing us to any partiuclar detailed answer.  We should let our browser folks look into it, then in the new year look at charter text to give us room to work on the topic.
     
     * (general thumbs up reactions in video and emoji)
-- References:
+  * OTR References:
   
-  - (expired) I-D: https://datatracker.ietf.org/doc/html/draft-sahib-httpbis-off-the-record
+    - (expired) I-D: https://datatracker.ietf.org/doc/html/draft-sahib-httpbis-off-the-record
   
-  - presentation where it was discussed: https://datatracker.ietf.org/meeting/117/materials/slides-117-httpbis-sessb-request-otr-00
+    - presentation where it was discussed: https://datatracker.ietf.org/meeting/117/materials/slides-117-httpbis-sessb-request-otr-00
   
-  - Brave blog post on their implementation: https://brave.com/privacy-updates/26-request-off-the-record/
+    - Brave blog post on their implementation: https://brave.com/privacy-updates/26-request-off-the-record/
