@@ -19,7 +19,7 @@
 
 - Michael Kleber (Google Chrome)
 
-- 
+
 
 Apologies: 
 
@@ -43,11 +43,7 @@ Nick: W3C had a members meeting for North America. Gave overview of privacy that
 
 Nick: It may be useful to have principles or threat models in particular areas. We have privacy principles for the web, but they are more high-level. We may want to do something more concrete. For example, e-pub has some more details. Another topic was gaps. It would be useful to have impactful work by looking at the privacy principles and flesh out some of those.
 
-Philippe: Potentially, every breakout group at the meeting was useful and could be addressed. see also "
-
-Mitigate Threats for Digital Credentials API: Episode II - Attack of..."
-
- [Mitigate Threats for Digital Credentials API: Episode II - Attack of... | W3C](https://www.w3.org/events/meetings/97790087-97c8-4d89-b3ce-c3a80ef8c343/)
+Philippe: Potentially, every breakout group at the meeting was useful and could be addressed. see also [Mitigate Threats for Digital Credentials API: Episode II - Attack of... | W3C](https://www.w3.org/events/meetings/97790087-97c8-4d89-b3ce-c3a80ef8c343/)
 
 Full (proposed) schedule of breakouts: [W3C Breakouts Day 2025](https://www.w3.org/2025/03/breakouts-day-2025/#schedule)
 
@@ -59,7 +55,7 @@ Nick: There are some changes. Here is a PR: [Pull requests · w3c/credential-co
 
 ### Privacy reviews status
 
-[privacy horizontal review dashboard]([Horizontal board](https://www.w3.org/PM/horizontal/board.html?name=Privacy)) and privacy reviews status
+[Privacy horizontal review dashboard](https://www.w3.org/PM/horizontal/board.html?name=Privacy) and privacy reviews status
 
 Nick: The next item is privacy reviews. Phillippe, can you take us through the dashboard.
 
@@ -105,7 +101,7 @@ Sebastian: I am also happy to help with this.
 
 Nick: Justin will work on this and Michael and Sebastian will help. Hopefully, that will come up with short PR so that everyone can look at that. That is all we had lined up for GPC.
 
-### mitigating browser fingerprinting
+### Mitigating browser fingerprinting
 
 * merging PRs and process for reviewing
 
