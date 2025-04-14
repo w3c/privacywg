@@ -1,7 +1,7 @@
 ---
 name: Meeting agenda
 about: Agenda discussion for a given Privacy Working Group meeting
-title: '[agenda] 2024-1x-xx'
+title: '[agenda] 2025-0x-xx'
 labels: 'agenda'
 assignees: 'npdoty,sandandsnow,pes10k'
 
