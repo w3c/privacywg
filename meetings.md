@@ -6,6 +6,7 @@ layout: home
 
 #### Past meetings
 
+* [17 April 2025](minutes/privacywg-20250417.md): Fingerprinting guidance: naming issues, structuring guidance on randomization, document structure; GPC: user agents and user intent, GPC scope and regulation; Privacy review: WebAudio Playback Statistics API.
 * [20 March 2025](minutes/privacywg-20250320.md): Report from W3C North American Member meeting; User considerations for credentials on the Web; Privacy reviews status; GPC: establishing user intent; Mitigating Browsing Fingerprinting (ephemeral fingerprinting, randomness); AOB: child safety proposals
 * [06 February 2025](minutes/privacywg-20250206.md): Privacy reviews: WebRTC, Verifiable Credentials (pending), new request on WebAudio Playout Statistics; GPC: PR reviews -- naming the "Explainer"; private browsing mode considerations; Mitigating Browser Fingerprinting document updates; Consensus on auto-publishing; AOB: Overview of Interop process - test coverage for privacy features
 * [16 January 2025](minutes/privacywg-20250116.md): updating Mitigating Browser Fingerprinting document; Privacy reviews: Verifiable Credentials, charters; GPC: privacy and security considerations, consent and overriding signal, publishing the Explainer
