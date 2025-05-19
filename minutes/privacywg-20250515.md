@@ -140,8 +140,11 @@ Aram: we probably do want people to just use the current date from when they cop
 
 Ben: either build date, or 1970-01-01.
 
-* [w3c/gpc#94]([Consistency in use of sell/share/track/target terminology · Issue #94 · w3c/gpc · GitHub](https://github.com/w3c/gpc/issues/94)),  [w3c/gpc#102]([Align all descriptions of GPC to say it&#39;s meant to restrict sale and sharing of data. by jyasskin · Pull Request #102 · w3c/gpc · GitHub](https://github.com/w3c/gpc/issues/102)), [w3c/gpc#104](https://github.com/w3c/gpc/issues/104) -- brief check-in
-
+* Brief checkin:
+  * [w3c/gpc#94](https://github.com/w3c/gpc/issues/94)
+  * [w3c/gpc#102](https://github.com/w3c/gpc/issues/102)
+  * [w3c/gpc#104](https://github.com/w3c/gpc/issues/104)
+  
 Justin: issue raised by Michael K about characterizing exact scope of GPC. 'do not sell or share' is the shorthand but could be interpreted in different ways. not possible to specify every scenario. but this issue was to use clear language in the spec.
 
 Jeffrey has a couple PRs on this.
