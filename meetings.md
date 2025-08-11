@@ -5,6 +5,7 @@ layout: home
 ### Privacy Working Group Meetings
 
 #### Past meetings
+* [07 August 2025](minutes/privacywg-20250807.md): Privacy reviews web authentication, IMSC text profile; GPC: user agent automation, edits to clarify scope (cross-context vs cross-organization); guide to differential privacy; notice on workshop on age-based restrictions on content; reviews requested for fingerprinting guidance
 * [05 June 2025](minutes/privacywg-20250605.md): Interop-privacy reviewing privacytests.org; Reviews: Web Payments charter, Chinese Web Interest Group, WebAuthn, Audio Playback Statistics, plus discussion of charter template updates; volunteers needed to review DID 1.1, APA charter; presentation from researchers on loalhost protections ("localmess"); TPAC planning.
 * [15 May 2025](minutes/privacywg-20250515.md): Reviews: Web Neural Network API, Web Authentication; GPC: header format, last update field, checkins on issues (scope of GPC and interpretations of "do not sell or share"; publication announcement of Privacy Principles Statement 
 * [17 April 2025](minutes/privacywg-20250417.md): Fingerprinting guidance: naming issues, structuring guidance on randomization, document structure; GPC: user agents and user intent, GPC scope and regulation; Privacy review: WebAudio Playback Statistics API.
