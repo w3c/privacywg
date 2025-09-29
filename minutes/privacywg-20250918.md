@@ -4,7 +4,7 @@
 
 1. Nick Doty (CDT)
 
-2. Joey Stanford (Invited)
+2. Joey Stanford (Invited Expert)
 
 3. Ben VanderSloot (Mozilla)
 
