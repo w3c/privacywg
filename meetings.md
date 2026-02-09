@@ -5,6 +5,7 @@ layout: home
 ### Privacy Working Group Meetings
 
 #### Past meetings
+* [05 February 2026](minutes/2026/privacywg-20260205.md): Updates on GPC: how GPC applies in Europe; consistency fixes on terminology; "same context" vs "same site"; preparation for transition CR. Privacy request updates: DID Resolution v0.3, CSS Anchor Positioning, Web Editing WG charter. Differential privacy guidance publicized.
 * [18 September 2025](minutes/privacywg-20250918.md): Updates on documents -- differential privacy, fingerprinting guidance docs; privacy reviews: screen orientation, DAPT (audio descriptions), WebAuthn; closed out multiple charter reviews, discussed Web Extensions WG charter; touched on GPC PRs in progress.
 * [04 September 2025](minutes/privacywg-20250904.md): TAG looking for guidance on cross-site data mechanisms; updates on fingerprinting guidance and GPC; charters for review: PNG, DID methods; open reviews: screen orientation, geolocation
 * [07 August 2025](minutes/privacywg-20250807.md): Privacy reviews web authentication, IMSC text profile; GPC: user agent automation, edits to clarify scope (cross-context vs cross-organization); guide to differential privacy; notice on workshop on age-based restrictions on content; reviews requested for fingerprinting guidance
