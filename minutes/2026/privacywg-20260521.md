@@ -138,11 +138,7 @@ Matt: Yes.
 
 Nick: I think we have some useful academic research on geolocation fuzzing and potential abuses. that might not be a single value or number, but we have plenty of detail if we want to read and analyze it in the specs.
 
-- threat analysis of GEOPRIV would be one place, RFC 3694: https://datatracker.ietf.org/doc/rfc3694/
-
-
-
-4. 
+- threat analysis of GEOPRIV would be one place, RFC 3694: https://datatracker.ietf.org/doc/rfc3694/ 
 
 ## 4. GPC
 
