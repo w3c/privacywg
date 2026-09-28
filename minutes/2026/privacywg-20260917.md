@@ -34,7 +34,7 @@ Scribe: Don Marti
 
 ### 1. Introductions, Code of Conduct
 
-### 2 .Privacy reviews
+### 2. Privacy reviews
 
 Chairs are doing triage of incoming privacy reviews
 
@@ -156,6 +156,8 @@ Sebastian: that's the update, happy to take comments, or post an issue or a comm
 
 Nick: Just lost Ari, if you open a PR tag him. We need an editor to review. ???
 
+Ari's open PR: https://github.com/w3c/gpc/pull/152
+
 Pete: will add to next GPC call
 
 ### 4. WG Charter
@@ -182,8 +184,5 @@ Nick: Bluetooth, USB, serial devices access from web sites, incubated but no con
 
 Joey: (in chat) Keep me in mind for the devices reviews as I've been involved in related work as of late
 
-- Ari's open PR
-
-https://github.com/w3c/gpc/pull/152
 
 
