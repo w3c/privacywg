@@ -5,6 +5,7 @@ layout: home
 ### Privacy Working Group Meetings
 
 #### Past meetings
+* [5 November 2026](minutes/2026/privacywg-20261105.md): GPC: TAG feedback and wide review (progress to CR); Annual publications check-in; TPAC report-backs on privacy-specific issues; Privacy Working Group charter; Privacy reviews for specs and charters: Agentic Web WG, SHACL.
 * [21 May 2026](minutes/2026/privacywg-20260521.md): Privacy reviews: MathML, WebTransport, open review requests; Approximate geolocation; GPC: clarifying "support resource", detail level suitable for header parsing.
 * [05 February 2026](minutes/2026/privacywg-20260205.md): Updates on GPC: how GPC applies in Europe; consistency fixes on terminology; "same context" vs "same site"; preparation for transition CR. Privacy request updates: DID Resolution v0.3, CSS Anchor Positioning, Web Editing WG charter. Differential privacy guidance publicized.
 * [18 September 2025](minutes/privacywg-20250918.md): Updates on documents -- differential privacy, fingerprinting guidance docs; privacy reviews: screen orientation, DAPT (audio descriptions), WebAuthn; closed out multiple charter reviews, discussed Web Extensions WG charter; touched on GPC PRs in progress.
